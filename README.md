@@ -1,5 +1,4 @@
-# test
-I like traveling
+# my travel jorney site
 
 traveling helps to learn new culture
 
@@ -9,6 +8,6 @@ exploring different places is fun
 
 *Canada* - I have visisted the Center Tower
 
-Here is [my travel jorney Site](https://github.com/keria1001).
+Here is [my travel jorney site](https://github.com/keria1001).
 
 ![My traveling Picture](kiya.ipeg)  
